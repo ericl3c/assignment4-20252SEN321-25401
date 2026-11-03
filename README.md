@@ -113,8 +113,6 @@ AI tools, including ChatGPT, were used as supporting resources during the develo
 AI assistance was used for:
 - Understanding Oracle PL/SQL concepts.
 - Explaining records, collections, cursors, BULK COLLECT, and FORALL.
-- Supporting SQL and PL/SQL code development.
-- Identifying and troubleshooting programming errors.
-- Improving project documentation and organization.
+
 
 The group members reviewed, tested, and worked with the project implementation to understand its functionality.
