@@ -106,13 +106,7 @@ The tests demonstrate student retrieval, grade calculation, cursor processing, b
 
 This project demonstrates the practical application of Oracle PL/SQL programming concepts in a Student Registration and Grading Management System.
 
-## 10. AI Tools and Assistance
 
-AI tools, including ChatGPT, were used as supporting resources during the development of this project.
-
-AI assistance was used for:
-- Understanding Oracle PL/SQL concepts.
-- Explaining records, collections, cursors, BULK COLLECT, and FORALL.
 
 
 The group members reviewed, tested, and worked with the project implementation to understand its functionality.
